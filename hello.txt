@@ -2,3 +2,4 @@ Hello GitHub! This is my first Git project.
 Hello GitHub! This is my first Git project.
 
 I am learning Git and GitHub step by step.
+My next goal is to learn Python and AI.
